@@ -1,3 +1,5 @@
+<img width="1620" height="830" alt="ATM Project" src="https://github.com/user-attachments/assets/c02e3a1c-9dcd-4e56-8c31-6733d961ad05" />
+
 # ATM Simulation System (Shell Script)
 
 A web-based ATM simulation project built using Bash scripting and Apache CGI.
